@@ -1,0 +1,9 @@
+[submodule "happy-android"]
+	path = happy-android
+	url = git@github.com:keepburning/happy-android.git
+[submodule "happy-iOS"]
+	path = happy-iOS
+	url = git@github.com:keepburning/happy-iOS.git
+[submodule "happy-doc"]
+	path = happy-doc
+	url = git@github.com:keepburning/happy-doc.git
